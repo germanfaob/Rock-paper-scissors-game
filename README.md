@@ -26,7 +26,7 @@ Probado en Windows, es posible que en su sistema operativo sea diferente]
 - Tijera gana contra papel (ss > pp)
 - Piedra gana contra tijera (ro > ss)
 - Papel gana contra piedra (pp > ro)
-- *Equivalencias: ss = tijera | pp = papel | ro = piedra
+*Equivalencias: ss = tijera | pp = papel | ro = piedra
 
 ## Tecnología
 
