@@ -25,7 +25,7 @@ Probado en Windows, es posible que en su sistema operativo sea diferente]
 [Instrucciones del juego:
 - Tijera gana contra papel (ss > pp)
 - Piedra gana contra tijera (ro > ss)
-- Papel gana contra piedra (pp > ro)
+- Papel gana contra piedra (pp > ro)<br>
 *Equivalencias: ss = tijera | pp = papel | ro = piedra
 
 ## Tecnología
